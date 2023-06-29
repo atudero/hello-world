@@ -1,5 +1,5 @@
 ## DevOps Project for Beginners   
 Hello again folks! Let's get started
 
-THIS IS A NEW ADDING TO THE README
+THIS IS A NEW ADDING TO THE README! HAHA
 [![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
