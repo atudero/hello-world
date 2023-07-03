@@ -31,7 +31,7 @@
     <p>Ya tienes una cuenta? <a href="#">Inicia sesion aqui</a>.</p>
   </div>
 
-   <h1> Muchas gracias! Feliz aprendizaje!  </h1>
+   <h1> Muchas gracias! Feliz aprendizaje!  HEMOS ACABADO EL CURSO! Por fin!</h1>
 
   
 </form>
